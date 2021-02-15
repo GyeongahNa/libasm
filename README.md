@@ -1,2 +1,3 @@
 # libasm
-[42Seoul]어셈블리어로 간단한 함수 구현
+
+The aim of this project is to get familiar with assembly language.
